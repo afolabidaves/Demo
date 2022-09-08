@@ -1,0 +1,40 @@
+/* selection by tag */
+div{
+    /* background: rgb(126, 58, 46); */
+    width: 300px;
+    padding: 20px;
+    display: inline-block;
+}
+/* selection by class */
+
+.firstdiv {
+    background: #d7d7d7;
+    width: 300px;
+    padding: 20px;
+    
+}
+
+.thirddiv {
+    background: yellowgreen;
+    width: 300px;
+    padding: 20px;
+    
+}
+
+/* selection by id */
+
+#secdiv {
+    background: saddlebrown;
+    width: 300px;
+    padding: 20px;
+
+}
+
+.parentdiv {
+    /* background: black; */
+    width: 90%;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
